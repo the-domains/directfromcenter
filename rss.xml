@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[directfromcenter]]></title>
+        <description><![CDATA[directfromcenter]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 12:44:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[pozadina]]></title>
+            <description><![CDATA[<article><h1>pozadina</h1><p>ide ispos svega</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b9904ed8d5903e8465ecc9cfcb7f850a2944d94.jpg"></article>]]></description>
+            <link>undefinedpozadina/index.html</link>
+            <guid isPermaLink="false">bf0a33a9-cc54-419b-96f0-f98f4f8b86ee</guid>
+            <pubDate>Tue, 12 Apr 2016 12:44:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
