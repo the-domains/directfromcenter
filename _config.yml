@@ -1,6 +1,6 @@
 name: directfromcenter
 favicon: null
-layout_spectrum: 0.6389259370043874
+layout_spectrum: 0.49801
 typography_spectrum: 0.904518888797611
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#191826'
     - '#0b071e'
     - '#1f1e2c'
-  brandStrength: 0.5000531140249223
+  brandStrength: 0.5
   lightness: 0.07420334126800299
   saturation: 0.7514189064968377
   rhythmicContrast: 0.8310816031880677
