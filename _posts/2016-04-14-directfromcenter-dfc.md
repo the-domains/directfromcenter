@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
-description: "\_ The sole provider of Information Intelligence"
-datePublished: '2016-04-14T16:38:22.140Z'
-dateModified: '2016-04-14T16:37:49.800Z'
+description: ''
+datePublished: '2016-04-14T16:44:10.055Z'
+dateModified: '2016-04-14T16:43:30.871Z'
 title: ' '
 author: []
 sourcePath: _posts/2016-04-14-directfromcenter-dfc.md
@@ -22,9 +22,8 @@ publisher:
 _type: Blurb
 
 ---
-[The sole provider of Information Intelligence][0]
+# DirectFromCenter  -  DFC
 
-[& OMANU Zero Point Field Technology ][0]
+The sole provider od Information Intelligence
 
-
-[0]: null
+& OMANU Zero Point Field Technology
